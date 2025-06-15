@@ -32,7 +32,7 @@ Respond in this format:
 
 Verdict: <Benign | Suspicious | Malicious>  
 Attack Type: <If detected>  
-Reason: <Concise technical justification>
+
 
 Request:
 \"\"\"{request_data}\"\"\"
